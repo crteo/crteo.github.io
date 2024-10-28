@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 A few facts about me:
+
 🏫 I am a penultimate Mechanical Engineering student at National University of Singapore. 
 
 📚 I enjoy learning new things in my free time. Current skills I'm pursuing are 💻 Data Science and Machine Learning, as well as 📈 Investment and Portfolio Management.
