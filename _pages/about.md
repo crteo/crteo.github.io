@@ -30,9 +30,11 @@ In my free time, I pick up new skills from online platforms, and I would love to
 
 Navigating
 ======
-I've spent the bulk my time in 2022-2023 teaching, and most of 2024 working overseas and travelling. You can find my reflections and testimonials from teaching under the "Teaching" Tab and my Overseas Internship Experience under "2024 Overseas Internship". My travel experiences can be found under "Blog Posts".
+I've spent the bulk my time in 2022-2023 teaching. You can find my reflections and testimonials from teaching under the "Teaching" Tab.
 
-As I make some minor attempts at applying what I've learnt from the online courses I'm taking (through both projects and posts to educate), you can find these attempts under "Learning Data Science" as well as "Learning Investment and Portfolio Management".
+As I make some minor attempts at applying what I've learnt from the online courses I'm taking (through both projects and posts to educate), you can find my projects under "Personal Projects". 
+
+I've spent most of 2024 working overseas and travelling. Alongside this experience, posts regarding the explanation of a certain concept I've learnt can all be found under "Blog Posts".
 
 Site-wide configuration
 ------
