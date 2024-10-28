@@ -7,16 +7,22 @@ redirect_from:
   - /about.html
 ---
 A few facts about me:
-🏫 I am a penultimate Mechanical Engineering student at National University of Singapore.
+🏫 I am a penultimate Mechanical Engineering student at National University of Singapore. 
+
 📚 I enjoy learning new things in my free time. Current skills I'm pursuing are 💻 Data Science and Machine Learning, as well as 📈 Investment and Portfolio Management.
+
 👨‍🏫 I love to educate and I used to teach Physics (GCE 'O' and 'A' Levels) full-time at a tuition centre while I was in my first two years of University.
 
 What is this personal website for?
 ======
 It's for myself, really, and for a multitude of reasons.
+
 In my free time, I pick up new skills from online platforms, and I would love to have a place to:
+
 ✍ Reflect on my experiences and truly think about the importance of why I'm doing what I'm doing(a strong purpose is crucial to retaining information)
+
 👨🏻‍💻 Interact with my learnings by having a platform to apply what I learn through sharing
+
 📚 Share about my learning in as simple a way as possible, to re-teach the future me, who might've forgotten what I've learnt or what I've experienced (this is applying Feynmann's Learning Method, but for my future self).
 
 🤝 A side bonus, is that whoever is reading this, can get to know me better.
