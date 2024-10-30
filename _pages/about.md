@@ -20,13 +20,15 @@ It's for myself, really, and for a multitude of reasons.
 
 In my free time, I pick up new skills from online platforms, and I would love to have a place to:
 
-✍ Reflect on my experiences and truly think about the importance of why I'm doing what I'm doing(a strong purpose is crucial to retaining information)
+✍ Reflect on my experiences and truly think about the importance of why I'm doing what I'm doing.
 
 👨🏻‍💻 Interact with my learnings by having a platform to apply what I learn through sharing
 
-📚 Share about my learning in as simple a way as possible, to re-teach the future me, who might've forgotten what I've learnt or what I've experienced (this is applying Feynmann's Learning Method, but for my future self).
+📚 Share about my learning in as simple a way as possible, to re-teach the future me, who might've forgotten what I've learnt or what I've experienced.
 
-🤝 A side bonus, is that whoever is reading this, can get to know me better.
+Additionally, pivotal moments often flash past us in a blink of an eye, and writing is a way for me to hold on to these memories and the emotions associated with it, for me to remember who I am, who I was, and understand who I am going to be.
+
+🤝 A side bonus, is that whoever is reading this, can get to know me better =) 
 
 Navigating
 ======
