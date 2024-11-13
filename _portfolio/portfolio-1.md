@@ -37,7 +37,7 @@ How could I have appropriately evaluated the model using PR curve/ ROC curve? Wh
 Could I have used other ML models - KNN, Decision Tree, Neural Networks etc?
 
 Next steps:
-To reattempt this using different models, and attempt to evaluate each model and consider the practical application of a twitter sentiment analysis - is a PR or ROC curve more appropriate, and are we more interested in the positive or negative class based on the application of such a model?
+To reattempt this using different models, and attempt to evaluate each model and consider the practical application of a twitter sentiment analysis - is a PR or ROC curve more appropriate, and are we more interested in the positive or negative class based on the application of such a model? 
 
 
 
