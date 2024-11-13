@@ -1,6 +1,6 @@
 ---
 title: "Twitter Sentiment Analysis using NLP"
-excerpt: "My first attempt at playing around with NLP. <br/><img src='/images/marten-bjork-FVtG38Cjc_k-unsplash.jpg'>"
+excerpt: "My first attempt at playing around with NLP. <br/><img src='/images/thumbnail.jpg'>"
 collection: portfolio
 ---
 
