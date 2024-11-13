@@ -1,6 +1,6 @@
 ---
 title: "Twitter Sentiment Analysis using NLP"
-excerpt: "My first attempt at playing around with NLP. <br/><img src='/images/12-Fastdatascience-Blog-Natural-Language-Processing'>"
+excerpt: "My first attempt at playing around with NLP. <br/><img src='/images/marten-bjork-FVtG38Cjc_k-unsplash.jpg'>"
 collection: portfolio
 ---
 
@@ -39,6 +39,9 @@ Could I have used other ML models - KNN, Decision Tree, Neural Networks etc?
 Next steps:
 To reattempt this using different models, and attempt to evaluate each model and consider the practical application of a twitter sentiment analysis - is a PR or ROC curve more appropriate, and are we more interested in the positive or negative class based on the application of such a model? 
 
+Thumbnail credits:
+Photo by [Marten Bjork](https://unsplash.com/@martenbjork?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-space-gray-iphone-x-FVtG38Cjc_k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      
 
 
 
