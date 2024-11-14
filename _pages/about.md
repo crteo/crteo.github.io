@@ -37,3 +37,6 @@ I've spent the bulk my time in 2022-2023 teaching. You can find my reflections a
 As I make some minor attempts at applying what I've learnt from the online courses I'm taking (through both projects and posts to educate), you can find my projects under "Personal Projects". 
 
 I've spent most of 2024 working overseas and travelling. Alongside this experience, posts regarding the explanation of a certain concept I've learnt can all be found under "Blog Posts".
+
+**P.S.**
+This page is still a very large "Work in Progress", so you may see some weird stuff around :) 
