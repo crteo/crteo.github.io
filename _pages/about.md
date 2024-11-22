@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello, I'm Cheng Ren (some call me CR or Cheng)"
+title: "👋 Hello, I'm Cheng Ren"
 author_profile: true
 redirect_from: 
   - /about/
